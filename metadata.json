@@ -1,0 +1,8 @@
+{
+  "name": "SecureTest Browser",
+  "description": "A locked-down web browser designed to prevent cheating and ensure integrity during online examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
